@@ -21,9 +21,9 @@
 * if문, if - else문, if - else if - else문
 ---
 ## 4일차 (06.10)
-* if문, if - else문, if - else if - else문, 조건 연산자 복습
-* 반복문 (for문)
+* if문, if - else문, if - else if - else문 문제
+* 시간 되면 switch문
 ---
 ## 5일차 (06.11)
-* for문 복습
+* for문
 * for문 관련 문제
