@@ -1,0 +1,26 @@
+{
+  "users" : [
+    {
+      "id" : "791a",
+      "name" : "이정재",
+      "tel" : "01011111111",
+      "addr" : "대전광역시",
+      "email" : "st20916@naver.com"
+    },
+    {
+      "id" : "752a",
+      "name" : "세잔이",
+      "tel" : "01022222222",
+      "addr" : "대전광역시",
+      "email" : "cezanne@naver.com"
+    },
+    {
+      "id" : "732a",
+      "name" : "세잔잉",
+      "tel" : "0103322222",
+      "addr" : "대전광역시",
+      "email" : "cezanne2@naver.com"
+    }
+  ],
+  "products" : []
+}
