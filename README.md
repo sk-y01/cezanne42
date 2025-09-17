@@ -103,3 +103,12 @@
 ## 28일차 (09.09)
 * [Vue.js] JSON-Server, axios 사용
 ---
+## 29일차 (09.10)
+* [Vue.js] JSON-Server, Node.js 간단
+---
+## 30일차 (09.16)
+* [Vue.js] Composition API, 폴더 구조
+---
+## 31일차 (09.17)
+* [React.js] 기본 구조, Props
+---
