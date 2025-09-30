@@ -1,0 +1,49 @@
+.ChildUserComp {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  padding: 1.5rem;
+
+  .user__item {
+    padding: 1.5rem;
+    background-color: #fff;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, .1);
+
+    .user__info {
+      strong {
+        display: block;
+        font : {
+          size: 1.7rem;
+          weight: 700;
+        }
+      }
+
+      span {
+        font : {
+          size: 1.4rem;
+          weight: 300;
+        }
+      }
+    }
+
+    .user__content {
+      ul {
+        > li {
+          display: flex;
+          align-items: center;
+          gap: 1rem;
+
+          + li {
+            margin-top: .7rem;
+          }
+
+          span {
+            display: inline-block;
+            min-width: 10rem;
+            color: #4169e1;
+          }
+        }
+      }
+    }
+  }
+}

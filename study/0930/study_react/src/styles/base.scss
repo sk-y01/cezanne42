@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Gothic+A1&display=swap');
+
+html { font-size: 10px; }
+body {
+  background-color: #f8f8f8;
+  font : {
+    family : 'Gothic A1', sans-serif;
+    size: 1.6rem;
+    weight: 400;
+  }
+  color: #333;
+  line-height: 1.5;
+}
+
+a { text-decoration: none; color: inherit; }
