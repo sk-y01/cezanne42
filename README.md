@@ -118,3 +118,9 @@
 ## 33일차 (09.24)
 * [React.js] Props
 ---
+## 34일차 (09.30)
+* [React.js] Props, useState, useEffect
+---
+## 35일차 (10.01)
+* [Vue.js] Props
+---
